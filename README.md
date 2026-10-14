@@ -18,7 +18,7 @@ coexist.
 Add this repository as a package dependency and select the
 `LevelPlayVerveAdapter` product instead of LevelPlay's `VerveAdapter`.
 Versions match the LevelPlay adapter versions one-to-one: version
-`5.5.0` of this package uses LevelPlay adapter `5.5.0`.
+`5.6.0` of this package uses LevelPlay adapter `5.6.0`.
 
 ## License
 

@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "LevelPlayVerveAdapter", targets: ["LevelPlayVerveAdapterWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Verve-Adapter-Swift-Package.git", exact: "5.5.0"),
+        .package(url: "https://github.com/ironsource-mobile/LevelPlay-Verve-Adapter-Swift-Package.git", exact: "5.6.0"),
     ],
     targets: [
         .target(
