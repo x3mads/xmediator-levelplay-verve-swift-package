@@ -8,8 +8,8 @@ use the LevelPlay Verve adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-verve-swift-package.git`) and select the `LevelPlayVerveAdapter` product.
-Version `5.6.0` of this package corresponds to LevelPlay adapter
-`5.6.0` (<https://github.com/ironsource-mobile/LevelPlay-Verve-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.7.0` of this package corresponds to LevelPlay adapter
+`5.7.0` (<https://github.com/ironsource-mobile/LevelPlay-Verve-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 Verve adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
